@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "user-management-cli",
+    "slug": "snack-158270b4-dc47-4703-856d-e2663f059bed",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.neeraj93.snack158270b4dc474703856de2663f059bed"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "919c2113-95d2-4c49-8526-bb3918cd2235"
+      }
+    }
+  }
+}
